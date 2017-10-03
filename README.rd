@@ -1,0 +1,3 @@
+--Patatap Project--
+--Fun with PaperJS--
+--Tapping A-Z on your keyboard to play--
